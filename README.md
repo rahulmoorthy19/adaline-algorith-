@@ -1,1 +1,1 @@
-# adaline-algorith-
+# titanic dataset
